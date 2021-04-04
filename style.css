@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  border : 15px solid yellow;
+  margin-left: 29%;
+  border-radius: 6%;
+} 
+.headding{
+font-size: 50px;
+text-align: center;
+font-family: cooper;
+}
